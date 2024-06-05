@@ -1,0 +1,268 @@
+[
+    {
+        "category": "Home",
+        "menu": [
+            {
+                "dish": "Latin Beef Stew",
+                "ingredients": [
+                    "WATER", "BEEF ROUND EYE", "ONION", "RUSSET POTATO", "TOMATOES", "CORN KERNALS", "GREEN CABBAGE", 
+                    "SQUASH", "GREEN PEPPER", "WHEAT FLOUR (BLEACHED WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID.)", 
+                    "VEGETABLE OIL BLEND (VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: SOYBEAN, CANOLA, CORN, SUNFLOWER OIL); OLIVE OIL; COLORANT: BETA-CAROTENE E160A(I))",
+                    "CHIPOTLE SOUP BASE (PEPPER BLEND (RED BELL PEPPERS, JALAPENO PEPPERS), SAUTEED VEGETABLE PUREE MIX (ONIONS, CARROTS, CELERY), MALTODEXTRIN, CHIPOTLE POWDER, CORN OIL, SALT, OLIVE OIL, SUGAR, WATER, SPICES, DRIED ONIONS, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, BROWN SUGAR, GARLIC, YEAST EXTRACT, CITRIC ACID, SMOKE FLAVOR, NATURAL FLAVORS.)",
+                    "TOMATO PASTE", "GARLIC", "RED WINE VINEGAR", "CILANTRO", "SALT", "CUMIN", "BLACK PEPPER"
+                ]
+            },
+            {
+                "dish": "Hearty Mashed Potatoes",
+                "ingredients": [
+                    "RUSSET POTATO", "WHOLE MILK", "MARGARINE (PALM OIL, WATER, SOYBEAN OIL. CONTAINS LESS THAN 2% OF SOY LECITHIN, VEGETABLE MONO & DIGLYCERIDES, POTASSIUM SORBATE (A PRESERVATIVE), CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, BETA CAROTENE (COLOR), VITAMIN A PALMITATE ADDED, WHEY. CONTAINS: SOYBEAN, MILK)", "SALT", "BLACK PEPPER"
+                ]
+            }
+        ]        
+       
+    },
+    {
+        "category": "Grillhouse",
+        "menu": [
+            {
+                "dish": "Mushroom & Swiss Burger",
+                "ingredients": [
+                    "BEEF PATTY", "HAMBURGER ROLL", "MUSHROOMS", "SWISS CHEESE", "LETTUCE", "TOMATO", "MAYONNAISE", "VEGETABLE OIL BLEND", "GARLIC CONCENTRATE", "EXTRA VIRGIN OLIVE OIL", "LEMON JUICE", "DIJON MUSTARD", "ROSEMARY", "SALT", "BLACK PEPPER"
+                ]
+            },
+ 
+            {
+                "dish": "Char-Grilled Turkey Burger",
+                "ingredients": [
+                    "TURKEY BURGER", "ROLL"
+                ]
+            },
+            {
+                "dish": "Grilled Black Bean Burger",
+                "ingredients": [
+                    "BLACK BEAN VEGGIE BURGER", "ROLL"
+                ]
+            },
+            {
+                "dish": "Hamburger",
+                "ingredients": [
+                    "BEEF PATTY", "ROLL"
+                ]
+            },
+            {
+                "dish": "Dill Pickle Slices",
+                "ingredients": [
+                    "PICKLE SLICES (FRESH CUCUMBERS, WATER, SALT, DISTILLED VINEGAR, CONTAINS LESS THAN 2% OF DRIED GARLIC, CALCIUM CHLORIDE, SPICE, SODIUM BENZOATE (TO PRESERVE FLAVOR), MUSTARD SEED, DRIED RED PEPPER, NATURAL FLAVOR, POLYSORBATE 80, OLEORESIN TUMERIC.)"
+                ]
+            },
+            {
+                "dish": "Crispy Chicken Sandwich",
+                "ingredients": [
+                    "CHICKEN BREAST PATTY", "ROLL"
+                ]
+            },
+            {
+                "dish": "Crispy Shoestring French Fries",
+                "ingredients": [
+                    "FRENCH FRIES (POTATOES, VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING OILS: CANOLA, SOYBEAN, COTTONSEED, SUNFLOWER, CORN), POTATO STARCH - MODIFIED. CONTAINS 2% OR LESS OF DEXTRIN, DEXTROSE, LEAVENING (SODIUM ACID PYROPHOSPHATE, SODIUM BICARBONATE), PEA FIBER, PEA PROTEIN, RICE FLOUR, SALT, SODIUM ACID PYROPHOSPHATE ADDED TO MAINTAIN COLOR, XANTHAN GUM)."
+                ]
+            }
+        ]
+        
+    },
+    {
+        "category": "Truebalance",
+        "menu": [
+            {
+                "dish": "Kielbasa & Potato Hash",
+                "ingredients": [
+                    "RED POTATO", "SMOKED SAUSAGE", "ONION", "GREEN PEPPER", "VEGETABLE OIL BLEND", "VEGETABLE OIL BLEND", "GARLIC"
+                ]
+            },
+            {
+                "dish": "Sweet Tomato Soup (6 fl oz)",
+                "ingredients": [
+                    "WATER", "TOMATOES", "SWEET POTATO", "ONION", "TOMATO PASTE", 
+                    "VEGETABLE BASE (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY, CORN OIL), CORNSTARCH, MALTODEXTRIN, CORN OIL, HYDROLYZED CORN PROTEIN, AUTOLYZED YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE, DISODIUM GUANYLATE, GARLIC POWDER, SALT, EXTRACTIVES OF PAPRIKA, NATURAL FLAVORS, MODIFIED CORNSTARCH.)", 
+                    "GRANULATED SUGAR", "VEGETABLE OIL BLEND (VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: SOYBEAN, CANOLA, CORN, SUNFLOWER OIL); OLIVE OIL; COLORANT: BETA-CAROTENE E160A(I))", 
+                    "GARLIC", "BLACK PEPPER", "DRIED BAY LEAF"
+                ]
+            },
+            {
+                "dish": "Vanilla Chocolate Cupcake",
+                "ingredients": [
+                    "POWDERED SUGAR", "PLANT BASED BUTTER SPREAD", "OAT MILK", "GRANULATED SUGAR", "RICE FLOUR", "BAKING COCOA", 
+                    "WHITE VINEGAR", "CANOLA OIL", "OAT MILK", "VANILLA EXTRACT", "BAKING SODA", "XANTHAN GUM", "VANILLA EXTRACT", "SALT"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Mto Pasta Bar",
+        "menu":[
+            {
+                "dish": "Diced Chicken",
+                "ingredients": [
+                    "Diced roasted chicken breasts and thighs"
+                ]
+            },
+            {
+                "dish": "Spaghetti Sauce (2 tablespoon)",
+                "ingredients": [
+                    "SPAGHETTI SAUCE (TOMATO CONCENTRATE (WATER, TOMATO PASTE), CORN SYRUP, SALT, SPICES, DEHYDRATED PARSLEY, CITRIC ACID, NATURAL FLAVOR.)"
+                ]
+            },
+            {
+                "dish": "Sweet Chili Sauce (1 1/4 ozw)",
+                "ingredients": [
+                    "SWEET CHILI SAUCE"
+                ]
+            }
+        ]
+        
+    },
+    {
+        "category": "Hotspot",
+        "menu": [
+            {
+                "dish": "Asian Seared Chicken",
+                "ingredients": [
+                    "CHICKEN THIGH", "SOY SAUCE", "SEASONED RICE WINE VINEGAR", "WATER", "SESAME OIL", "GREEN ONION", "GARLIC", "BLACK PEPPER"
+                ]
+            },
+            {
+                "dish": "Asian Seared Tofu",
+                "ingredients": [
+                    "Seared Asian-marinated Tofu"
+                ]
+            },
+            {
+                "dish": "Southwest Black Beans",
+                "ingredients": [
+                    "BLACK BEANS", "WATER", "TOMATO", "ONION", "JALAPENO PEPPER", "LIME JUICE", "VEGETABLE BASE (SAUTEED VEGETABLE PUREE MIX (CARROTS, ONIONS, CELERY, CORN OIL), CORNSTARCH, MALTODEXTRIN, CORN OIL, HYDROLYZED CORN PROTEIN, AUTOLYZED YEAST EXTRACT, TOMATO POWDER, WATER, ONION POWDER, 2% OR LESS OF DISODIUM INOSINATE, DISODIUM GUANYLATE, GARLIC POWDER, SALT, EXTRACTIVES OF PAPRIKA, NATURAL FLAVORS, MODIFIED CORNSTARCH.)", "SALT", "CUMIN", "BLACK PEPPER", "GARLIC", "CILANTRO"
+                ]
+            },
+            {
+                "dish": "Sushi Rice with Quinoa",
+                "ingredients": [
+                    "WATER", "SUSHI RICE", "SEASONED RICE WINE VINEGAR (RICE WINE VINEGAR (REDUCED W/ WATER TO 4.5% ACIDITY BY VOLUME), SUGAR, SALT, POTASSIUM METABISULFITE (PRESERVATIVE), CARAMEL COLOR. CONTAINS SULFITES. OR RICE WINE VINEGAR (REDUCED W/ WATER TO 4.5% ACIDITY BY VOLUME), SUGAR, NATURAL FLAVOR, SALT, POTASSIUM METABISULFITE (PRESERVATIVE). CONTAINS SULFITES.)", "QUINOA", "GRANULATED SUGAR"
+                ]
+            },
+            {
+                "dish": "Rice Noodles (1/2 cup)",
+                "ingredients": [
+                    "WATER", "THAI RICE STICK"
+                ]
+            },
+
+            {
+                "dish": "Spicy Roasted Broccoli",
+                "ingredients": [
+                    "BROCCOLI", "VEGETABLE OIL BLEND", "JAPANESE 7 SPICE SEASONING", "SALT"
+                ]
+            }
+        ]        
+    },
+    {
+        
+            "category": "Delish",
+            "menu": [
+  
+                {
+                    "dish": "Signature Chips",
+                    "ingredients": [
+                        "POTATO CHIPS (POTATOES, VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWING OILS: CANOLA, SOYBEAN, COTTONSEED, SUNFLOWER, CORN). CONTAINS 2% OR LESS OF DEXTROSE, SALT, SODIUM ACID PYROPHOSPHATE ADDED TO MAINTAIN NATURAL COLOR.)",
+                        "GRANULATED SUGAR",
+                        "BLACK PEPPER BLEND (SPICES (INCLUDING BLACK PEPPER, WHITE PEPPER, RED PEPPER), SALT, GARLIC, ONION, RED AND GREEN BELL PEPPER, CHILI PEPPER, CITRIC ACID, NATURAL FLAVOR, EXTRACTIVES OF CAPSICUM & JALAPEÑO PEPPER.)",
+                        "GARLIC PEPPER SEASONING (SPICES (INCLUDING BLACK PEPPER, WHITE PEPPER, RED PEPPER), SALT, GARLIC, ONION, RED AND GREEN BELL PEPPER, CHILI PEPPER, CITRIC ACID, NATURAL FLAVOR, EXTRACTIVES OF CAPSICUM & JALAPEÑO PEPPER.)"
+                    ]
+                }
+            ]
+        
+        },
+        {
+            "category": "Central Garden",
+            "menu": [
+                {
+                    "dish": "Penne Pasta Salad",
+                    "ingredients": [
+                        "WATER",
+                        "CELLENTANI",
+                        "BALSAMIC VINAIGRETTE DRESSING",
+                        "SPINACH",
+                        "BASIL",
+                        "BLACK PEPPER",
+                        "SALT"
+                    ]
+                },
+                {
+                    "dish": "Hearty Beef & Vegetable Soup (6 fl oz)",
+                    "ingredients": [
+                        "WATER",
+                        "RUSSET POTATO",
+                        "BEEF ROUND EYE",
+                        "TOMATOES",
+                        "GREEN CABBAGE",
+                        "ONION",
+                        "BEEF BASE (ROASTED BEEF AND CONCENTRATED BEEF STOCK, MALTODEXTRIN, AUTOLYZED YEAST EXTRACT, HYDROLYZED CORN PROTEIN, CORN STARCH, CARROT PURÉE, NATURAL FLAVORS, DISODIUM INOSINATEAND DISODIUM GUANYLATE, 2% OR LESS OF SALT, CARAMEL COLOR, VEGETABLE OIL (CORN AND/ORCANOLA OIL), PAPRIKA (COLOR), POTATO STARCH, DEXTROSE, LACTIC ACID.)",
+                        "ANCHO PEPPER CONCENTRATE (PEPPER BLEND (RED BELL PEPPERS, JALAPENO PEPPERS), SAUTEED VEGETABLE PUREE MIX (ONIONS, CARROTS, CELERY), MALTODEXTRIN, CHIPOTLE POWDER, CORN OIL, SALT, OLIVE OIL, SUGAR, WATER, SPICES, DRIED ONIONS, VINEGAR, MODIFIED CORNSTARCH, 2% OR LESS OF PALM OIL, BROWN SUGAR, GARLIC, YEAST EXTRACT, CITRIC ACID, SMOKE FLAVOR, NATURAL FLAVORS.)",
+                        "VEGETABLE OIL BLEND (VEGETABLE OIL (MAY CONTAIN ONE OR MORE OF THE FOLLOWING: SOYBEAN, CANOLA, CORN, SUNFLOWER OIL); OLIVE OIL; COLORANT: BETA-CAROTENE E160A(I))",
+                        "GARLIC",
+                        "MONTREAL STEAK SEASONING (COARSE SALT, SPICES (INCLUDING BLACK PEPPER AND RED PEPPER), GARLIC, ONION, SUNFLOWER OIL, NATURAL FLAVOR AND EXTRACTIVES OF PAPRIKA.)",
+                        "CUMIN",
+                        "SALT",
+                        "DRIED OREGANO",
+                        "BLACK PEPPER"
+                    ]
+                },
+ 
+  
+                {
+                    "dish": "Sliced Green Bell Peppers (1/2 cup)",
+                    "ingredients": [
+                        "GREEN PEPPER"
+                    ]
+                },
+                {
+                    "dish": "Sliced Red Onions (1/2 cup)",
+                    "ingredients": [
+                        "ONION"
+                    ]
+                },
+                {
+                    "dish": "Watermelon Cubes (1/2 cup)",
+                    "ingredients": [
+                        "WATERMELON"
+                    ]
+                },
+                {
+                    "dish": "Diced Ham (1/4 cup)",
+                    "ingredients": [
+                        "Diced ham"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Cup Cakes",
+            "menu": [
+                {
+                    "dish": "Chocolate Brownie",
+                    "ingredients": [
+                        "BROWNIE MIX",
+                        "WATER"
+                    ]
+                },
+                {
+                    "dish": "Chocolate Chip Cookie",
+                    "ingredients": [
+                        "CHOCOLATE CHIP COOKIE (ENRICHED BLEACHED FLOUR (BLEACHED WHEAT FLOUR, MALTED BARLEY FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM OIL, SEMI-SWEET CHOCOLATE CHIPS (SUGAR, UNSWEETENED CHOCOLATE, COCOA BUTTER, DEXTROSE, SOY LECITHIN, VANILLA EXTRACT), CHOCOLATE FLAVORED CONFECTIONARY CHIPS (SUGAR, PALM KERNEL AND/OR PALM OIL, COCOA [PROCESSED WITH ALKALI], DEXTROSE, SOY LECITHIN, POLYSORBATE 60, SORBITAN MONOSTEARATE, NATURAL FLAVOR, SALT, VANILLA EXTRACT), MARGARINE (PALM OIL, WATER, SOYBEAN OIL, SALT, MONO- AND DIGLYCERIDES, NATURAL FLAVORS [CONTAINS MILK], CITRIC ACID, VITAMIN A PALMITATE ADDED, BETA CAROTENE [COLOR]), WATER, EGGS, DEXTROSE, CONTAINS 2% OR LESS OF: MOLASSES, WHEAT STARCH, BAKING SODA, SALT, NATURAL AND ARTIFICIAL FLAVOR.)"
+                    ]
+                }
+            ]
+        }
+        
+        
+
+    
+]   

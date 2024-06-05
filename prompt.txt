@@ -1,0 +1,48 @@
+In a well-equipped kitchen, you are preparing a delicious meal.  I have access to the kitchen equipments mentioned in (kitchen.txt)
+
+I can also access previously generated task trees for reference, such as the two examples provided:
+
+Example 1: Simple Vegetable Soup
+
+This example shows a task tree for preparing a simple vegetable soup:
+
+Wash and chop vegetables (e.g., carrots, celery).
+Peel and dice potatoes.
+Bring water to a boil in a saucepan.
+Add vegetables and cook until tender.
+Transfer cooked vegetables to a serving bowl.
+
+Example 2: Baked Chicken
+
+This example shows a task tree for baking chicken:
+
+Marinate chicken in a mixture of soy sauce, ginger, and garlic for 30 minutes.
+Preheat oven to 400°F (200°C).
+Place chicken on a baking sheet and bake for 20-25 minutes, or until cooked through.
+Serve chicken with roasted vegetables (optional).
+
+Dish to Generate Task Tree:
+
+For all the dishes (from input.json)
+
+Following these examples, create a detailed task tree.  
+
+The task tree should have three main components:
+
+  1. Preparation: This section lists all the necessary steps to prepare the ingredients (e.g., chopping vegetables, boiling pasta).
+  2. Cooking: This section details the cooking instructions (e.g., boiling water, mixing ingredients).
+  3. Plating: This section describes the final assembly and presentation of the dish (e.g., transferring to a serving bowl).
+
+Use the available ingredients (listed in input.json) and the provided kitchen equipment(listed in kitchen.txt) to create a comprehensive task tree for all the dishes (listed in input.json), Give the output in json format. The output json should have input,output nodes and motion nodes. I will give you an example on how to specify input,output nodes and motion node :
+Example Task Tree for "Simple Fruit Smoothie":
+Ingredients: apples, bananas
+1. Input Nodes: whole apple, whole banana
+2. Motion Node:
+   a. Wash the apple and banana.
+   b. Peel the banana.
+   c. Slice the apple and banana.
+3. Output Nodes: sliced apple, sliced banana
+4. Motion Node: Blend the sliced apple and banana with 1 cup of water.
+5. Output Nodes: Smoothie
+and output the task tree in json format
+and don't give anything except the json format code with input , ouput, motion and state nodes. Ensure the JSON object is in a correct format and can be converted to valid JSON.
