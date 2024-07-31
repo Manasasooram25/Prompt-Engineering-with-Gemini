@@ -1,4 +1,4 @@
-Here, you'll be working with a large language model called Gemini to design
+worked with a large language model called Gemini to design
 effective prompts. These prompts will guide Gemini towards generating precise
 task trees, outlining the steps needed to cook specific dishes.
 
@@ -8,7 +8,7 @@ Input:
 chopped onions, clean pot)
 
 Task:
-Your challenge is to design at least three different prompting approaches that
+To design at least three different prompting approaches that
 incorporate several examples of task tree generation for cooking meals. This will
 equip Gemini with the necessary knowledge to create accurate task trees for any
 given dish. You should compare those approaches, figure out their pros and cons,
